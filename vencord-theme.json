@@ -2,7 +2,8 @@
     "manifest": {
         "name": "Vencord-Theme",
         "version": "1.0.0",
-        "author": "shiggy.py"
+        "author": "shiggy.py",
+        "updater": "https:\/\/raw.githubusercontent.com\/ukivie\/aliucord-vencord-theme\/main\/vencord-theme.json"
     },
     "background": {},
     "fonts": {
