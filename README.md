@@ -17,5 +17,5 @@ This theme tries to follow the color scheme a little more than the original, by 
 
 
 **Elements in Android 14 that don't get themed: chatbox input background, active dm button background, channel colors (the icons still work) etc. 
-Not to worry, they will work fine for you, unless you're also on Android 14.*
+Not to worry, they will work fine for you, unless you're also on Android 12+.*
 
