@@ -7,5 +7,5 @@ This theme tries to follow the color scheme a little more accurately than the or
 
 # Preview
 SCREENSHOTS NOT ENTIRELY ACCURATE DUE TO ANDROID 14
-(elements in a14 that don't get themed: chatbox input background, active dm button background, channel text color (the icons still work) etc.)
+Elements in a14 that don't get themed: chatbox input background, active dm button background, channel text color (the icons still work) etc.
 
