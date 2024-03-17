@@ -3,9 +3,9 @@
 
 A theme (using vencord's colors) ported over with the permission of @/Synqat
 
-# **Slight changes**
+# **Slight changes:**
 This theme tries to follow the color scheme a little more than the original, by making additional elements use the light pink that matches the https://vencord.dev website instead of keeping them dull
-# Preview
+# Preview:
 
 # **SCREENSHOTS NOT ENTIRELY ACCURATE DUE TO ANDROID 14***
 
