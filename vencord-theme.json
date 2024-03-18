@@ -1,18 +1,18 @@
 {
     "manifest": {
         "name": "Vencord-Theme",
-        "version": "1.0.0",
+        "version": "1.0.1",
         "author": "shiggy.py",
         "updater": "https:\/\/raw.githubusercontent.com\/ukivie\/aliucord-vencord-theme\/main\/vencord-theme.json"
     },
     "background": {},
     "fonts": {
-        "ginto_bold": "https:\/\/github.com\/ukivie\/aliucord-vencord-theme\/blob\/main\/Rubik-SemiBold.ttf",
-        "ginto_medium": "https:\/\/github.com\/ukivie\/aliucord-vencord-theme\/blob\/main\/Rubik-Medium.ttf",
-        "whitney_medium": "https:\/\/github.com\/ukivie\/aliucord-vencord-theme\/blob\/main\/Rubik-Medium.ttf",
-        "whitney_bold": "https:\/\/github.com\/ukivie\/aliucord-vencord-theme\/blob\/main\/Rubik-SemiBold.ttf",
-        "whitney_semibold": "https:\/\/github.com\/ukivie\/aliucord-vencord-theme\/blob\/main\/Rubik-SemiBold.ttf",
-        "ginto_regular": "https:\/\/github.com\/ukivie\/aliucord-vencord-theme\/blob\/main\/Rubik-Regular.ttf"
+        "ginto_bold": "https:\/\/github.com\/ukivie\/aliucord-vencord-theme\/raw\/main\/Rubik-Bold.ttf",
+        "whitney_bold": "https:\/\/github.com\/ukivie\/aliucord-vencord-theme\/raw\/main\/Rubik-Bold.ttf",
+        "whitney_semibold": "https:\/\/github.com\/ukivie\/aliucord-vencord-theme\/raw\/main\/Rubik-SemiBold.ttf",
+        "whitney_medium": "https:\/\/github.com\/ukivie\/aliucord-vencord-theme\/raw\/main\/Rubik-Medium.ttf",
+        "ginto_medium": "https:\/\/github.com\/ukivie\/aliucord-vencord-theme\/raw\/main\/Rubik-Medium.ttf",
+        "ginto_regular": "https:\/\/github.com\/ukivie\/aliucord-vencord-theme\/raw\/main\/Rubik-Regular.ttf"
     },
     "simple_colors": {
         "mention_highlight": 646496464,
