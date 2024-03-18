@@ -8,7 +8,8 @@ This theme tries to follow the color scheme a little more than the original, by 
 # Preview:
 
 # **SCREENSHOTS NOT ENTIRELY ACCURATE DUE TO ANDROID 14*** 
-Font size is also much larger in preview so you can see it better. Resize to your liking in aliucord settings -> appearance
+Font size is also much larger in preview so you can see it better. 
+Resize to your liking in aliucord settings -> appearance
 
 ![Preview-1](https://github.com/ukivie/aliucord-vencord-theme/assets/158360149/c0bed01e-db6e-4e18-9e06-ed4ca725d2c8)![Preview-2](https://github.com/ukivie/aliucord-vencord-theme/assets/158360149/a7e73071-3a41-4148-b1c0-ad9b2b874cd3)![Preview-3](https://github.com/ukivie/aliucord-vencord-theme/assets/158360149/f77fe1f7-47ea-405e-9aab-fb2044f55c77)![Preview-4](https://github.com/ukivie/aliucord-vencord-theme/assets/158360149/e7145323-dff6-4dc0-b67c-f6d8629ef8b3)
 
